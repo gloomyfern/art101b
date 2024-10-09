@@ -1,0 +1,20 @@
+h1{ 
+    color: rgb(33, 48, 86);
+    font-size:300%
+}
+
+p{ 
+    font-size: 150%;
+    text-indent: 20px;
+    margin-left: 15px;
+}
+
+#content{
+    background-color: aliceblue;
+    width: 800px;
+    min-height: 500px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 6px;
+    font-size: 30 px
+}
