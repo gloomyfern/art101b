@@ -1,9 +1,31 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+h1 {
+color: rgb(17, 20, 50);
+font-family: 'Franklin Gothic Medium';
+font-size:x-large;
+}
+
+section{ 
+color: #1c3030;
+}
+h2{
+  font-family: 'Franklin Gothic Medium';
+  text-underline-position: below;
+  background-color: #90c6c6;
+}
+
+body {
+background: border-box rgb(255, 164, 174);
+}
+img {float: right;}
+
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: none;
+    background-color: #71a7a6;
+    
   }
+  
