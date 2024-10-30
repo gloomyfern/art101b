@@ -7,3 +7,6 @@ body {
 background-color: rgb(69, 104, 117);
 
 }
+img {
+box-shadow: inset;
+}
