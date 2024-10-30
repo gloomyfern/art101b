@@ -2,12 +2,7 @@
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 
-title {
-  background-color: #e3abac;
-}
-main {
-  background-color: #e1bcc4;
-}
+
 h1 {
 color: rgb(17, 20, 50);
 font-family: 'Franklin Gothic Medium';
@@ -19,9 +14,7 @@ color: #091616;
 }
 h2{
   font-family: 'Franklin Gothic Medium';
-  text-underline-position: below;
-  background-color: #e1bcc4;
-}
+  text-underline-position: below;}
 
 body {
 background: border-box rgb(255, 164, 174);
@@ -31,8 +24,6 @@ img {float: right;}
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: none;
-    background-color: #e3abac;
-    
+    border: none;    
   }
   
