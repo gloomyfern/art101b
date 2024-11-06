@@ -1,18 +1,17 @@
 h1{
     font-family: 'Franklin Gothic Medium';
-    background-color: bisque;
 }
 h2{
     font-family: 'Franklin Gothic Medium';
-    background-color: aliceblue;
 
 }
-main{
-    background-color: aliceblue;
-}
+
+
+
 .special {
     background-color: lavender;
-    border: dotted 50px red;
-    color: pink;
+    border: solid 15px rgb(49, 58, 77);
+    color: rgb(58, 27, 46);
     font-weight: bold;
 }
+
