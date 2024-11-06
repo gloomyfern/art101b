@@ -7,24 +7,28 @@
    Date: November 2024
 */
 
-$("#Challenge").append("<button id='button-Challenge'>ClickClack</button>");
+$("#challenge").append("<button id='button-challenge'>ClickClack</button>");
 
-$("button-challenge").click(function(){
+$("#button-challenge").click(function(){
     // now add (or subtract) the "special" class to the section
-    $("#Challenge").toggleClass("ClickClack");
+    $("#challenge").toggleClass("special");
 });
 
-$("#Problems").append("<button id='button-Problems'>ClickClack</button>");
 
-$("button-problems").click(function(){
+
+$("#problems").append("<button id='button-problems'>ClickClack</button>");
+
+$("#button-problems").click(function(){
     // now add (or subtract) the "special" class to the section
-    $("#Problems").toggleClass("ClickClack");
+    $("#problems").toggleClass("special");
 }); 
 
 
-$("#Results").append("<button id='button-Results'>ClickClack</button>");
 
-$("button-results").click(function(){
-    $("#Results").toggleClass("ClickClack");
+
+$("#results").append("<button id='button-results'>ClickClack</button>");
+
+$("#button-results").click(function(){
+    $("#results").toggleClass("special");
 }); 
 
