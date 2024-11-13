@@ -1,7 +1,16 @@
 /* this css file will only style the homepage of our site */
 
+html {background-color: aliceblue;}
+
 h1 {
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Lucida Grande';
+    border: 2px;
+    background-color: rgb(173, 226, 241);
+    border-style:solid;
+    border-radius: 5px;
+    border-spacing: 10px;
+    border-color: rgb(164, 221, 230);
+    color: rgb(23, 23, 62);
 }
 body {
 background-color: rgb(69, 104, 117);
@@ -9,4 +18,27 @@ background-color: rgb(69, 104, 117);
 }
 img {
 box-shadow: inset;
+border-style: outset;
+border-radius: 10px;
+border-color: rgb(9, 38, 38);
+
+}
+
+h2 {
+    font-family: 'Lucida Grande';
+    border: 2px;
+    border-style:solid;
+    border-radius: 5px;
+    border-spacing: 10px;
+    border-color: rgb(164, 221, 230);
+    color: rgb(23, 23, 62);
+
+
+}
+
+p {
+   font-family: 'Lucida Grande';
+    border-style:dotted;
+    color: rgb(23, 23, 62);
+
 }
