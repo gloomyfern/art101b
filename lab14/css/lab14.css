@@ -1,0 +1,28 @@
+
+
+h1 {
+    font-family: Geneva;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: Geneva;
+    font-style: normal;
+    text-decoration: underline;
+    font-weight: bolder;
+
+}
+
+p {
+    font-family: 'Gill Sans';
+}
+
+
+body {
+    background-color: rgb(140, 198, 234);
+}
+
+main {
+    color:antiquewhite
+}
